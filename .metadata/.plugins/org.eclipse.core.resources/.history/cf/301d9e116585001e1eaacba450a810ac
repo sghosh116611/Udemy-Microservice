@@ -1,0 +1,5 @@
+package com.personalproject.photoapp.controller;
+
+public class AccountManagmentController {
+
+}
